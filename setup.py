@@ -29,7 +29,7 @@ setup(
     package_dir={'apple': 'apple'},
     include_package_data=True,
     install_requires=[
-        'lxml==4.4.2',
+        'lxml==4.9.1',
         'requests==2.22.0'
     ],
     entry_points={

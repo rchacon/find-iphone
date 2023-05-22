@@ -30,7 +30,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'lxml==4.4.2',
-        'requests==2.22.0'
+        'requests==2.31.0'
     ],
     entry_points={
         'console_scripts': [
